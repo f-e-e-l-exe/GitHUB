@@ -2,6 +2,8 @@ package Java;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println("Hello, Worlds");
+        String str="asddfg";
+        System.out.println(str.substring(0, 4));
+
     }
 }
